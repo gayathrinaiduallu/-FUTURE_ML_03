@@ -1,0 +1,6 @@
+Rank,Candidate,Score (%),Skills Found,Matched Skills,Missing Skills
+1,Alice Johnson,61.08,20,"aws, communication, data analysis, data visualization, deep learning, gcp, git, machine learning, matplotlib, nlp, numpy, pandas, python, pytorch, scikit-learn, seaborn, sql, tableau, teamwork, tensorflow",natural language processing
+2,Carol Martinez,41.79,15,"aws, communication, deep learning, git, machine learning, matplotlib, natural language processing, nlp, numpy, pandas, python, pytorch, seaborn, sql, tensorflow","data analysis, data visualization, gcp, scikit-learn, tableau, teamwork"
+3,Eva Chen,30.12,10,"communication, data analysis, data visualization, matplotlib, pandas, python, seaborn, sql, tableau, teamwork","aws, deep learning, gcp, git, machine learning, natural language processing, nlp, numpy, pytorch, scikit-learn, tensorflow"
+4,Bob Smith,28.38,10,"communication, git, machine learning, matplotlib, numpy, pandas, python, scikit-learn, sql, teamwork","aws, data analysis, data visualization, deep learning, gcp, natural language processing, nlp, pytorch, seaborn, tableau, tensorflow"
+5,David Lee,9.48,3,"aws, git, sql","communication, data analysis, data visualization, deep learning, gcp, machine learning, matplotlib, natural language processing, nlp, numpy, pandas, python, pytorch, scikit-learn, seaborn, tableau, teamwork, tensorflow"
